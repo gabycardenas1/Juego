@@ -10,8 +10,8 @@ from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 import random
 
 # Cargar imágenes
-ruta = r"C:\Users\GABY\Pictures\gato1.png"  
-ruta1 = r"C:\Users\GABY\Pictures\personaje.png"
+ruta = "gato1.png"  
+ruta1 = "personaje.png"
 img = Image.open(ruta)
 img1 = Image.open(ruta1)
 
